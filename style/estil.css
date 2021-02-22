@@ -3,12 +3,12 @@
 
 @font-face {
   font-family: Antiga;
-  src: url(./Arcade.ttf);
+  src: url(../fonts/Arcade.ttf);
 }
 
 @font-face {
   font-family: Enunciat;
-  src: url(./OdinRounded.otf);
+  src: url(../fonts/OdinRounded.otf);
 }
 
 /* -- INICI Definició de constants a css -- */
