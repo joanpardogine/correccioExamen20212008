@@ -5,3 +5,7 @@
 .elementVisibleJPC {
   display: flex;
 }
+
+.centratsJPC{
+  justify-content: space-between;
+}

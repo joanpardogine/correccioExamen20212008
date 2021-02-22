@@ -283,6 +283,7 @@ button.inactiu:hover,button.inactiu:disabled {
 
 .botons {
   display: flex;
+  justify-content: space-between;
 }
 
 
