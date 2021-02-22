@@ -1,0 +1,7 @@
+.elementOcultJPC {
+  display: none;
+}
+
+.elementVisibleJPC {
+  display: flex;
+}
