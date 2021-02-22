@@ -43,6 +43,9 @@
     --botoPetitActiuFons:var(--groc);
     --botoPetitActiuText:var(--negre);
     --botoPetitActiuVora:var(--negre);
+
+    --botoPetitActiuVora:var(--negre);
+    
     /* enunciat*/
 
     --enunciatText: var(--blanc);
